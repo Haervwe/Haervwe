@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Juanjo Soliz, a pseudo self taught programmer from Argentina
+- 👋 Hi, I’m Juanjo Soliz, a self taught programmer from Argentina
 - 👀 I’m interested in AI, overcloking, general computer science, gaming , music, arts, big star wars and  LOTR fan
 - 🌱 I’m currently learning web development and having fun programing boardgames!
 
