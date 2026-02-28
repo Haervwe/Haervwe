@@ -6,7 +6,7 @@
     
 you can contact with me through my linkedIn profile: https://www.linkedin.com/in/juan-jose-soliz-19745618a/
 
-PD: the portfolio is on the wating list
+
 
 <!---
 Haervwe/Haervwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
