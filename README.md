@@ -4,7 +4,7 @@
 - 🌱 I’m currently building Open-WebUI tools and funtions for LLMs
 
     
-you can contact with me through my linkedIn profile: https://www.linkedin.com/in/juan-jose-soliz-19745618a/
+you can contact with me through my [LinkedIn profile] (https://www.linkedin.com/in/juan-jose-soliz/)
 
 
 
