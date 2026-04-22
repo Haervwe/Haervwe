@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juanjo Soliz, a self taught programmer from Argentina
 - Currently working as a Data Scientist at PwC
-- 👀 I’m interested in AI, overcloking, general computer science, gaming , music, arts, big star wars and  LOTR fan
+- 👀 I’m interested in AI, overclocking, general computer science, gaming , music, arts, big star wars and  LOTR fan
 - 🌱 I’m currently building Open-WebUI tools and funtions for LLMs
 
     
