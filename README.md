@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Juanjo Soliz, a self taught programmer from Argentina
-- Currently working as a Data Scientist at PwC
+- 👋 Hi, I’m Juanjo Soliz, a self taught software developer from Argentina
+- Currently working as a AI Engenieer bridging music and AI at Data-Collective GhmB
 - 👀 I’m interested in AI, overclocking, general computer science, gaming , music, arts, big star wars and  LOTR fan
 - 🌱 I’m currently building Open-WebUI tools and funtions for LLMs
 
